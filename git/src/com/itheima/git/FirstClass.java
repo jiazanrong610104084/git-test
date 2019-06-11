@@ -8,7 +8,8 @@ public class FirstClass {
         int i =1;
         i+=10;
     }
-    //这是一条注释。没啥用
+    //aaa
+    //写条注释
     public void aaa(){
         int i =1;
         i+=10;
